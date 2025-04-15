@@ -183,3 +183,11 @@ Inspired by the desire to create a globally accessible Arch Linux desktop from s
 
 ![Screenshot 2025-04-15 0152421](https://github.com/user-attachments/assets/712d01ad-c46b-4826-b2b1-e2afa5f5642c)
 
+  ---
+
+## I used WSL Server on windows which is located in other country I was connected via RustDesk Proxy Server. Now you know how lazy and invisible I'm. Take care and use brain
+
+![image](https://github.com/user-attachments/assets/c5f49cf9-67d9-470e-bf46-625c357ef748)
+
+
+
