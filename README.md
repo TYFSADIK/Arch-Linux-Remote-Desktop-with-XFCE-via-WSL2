@@ -124,9 +124,8 @@ Use this in any browser to access your remote XFCE desktop.
 
 ---
 
-## 📸 Suggested
+##  Suggested
 
-Include the following in a `/screenshots/` folder:
 - XFCE desktop via browser
 - Terminal showing `vncserver :1`
 - Terminal showing `ngrok http 6080`
