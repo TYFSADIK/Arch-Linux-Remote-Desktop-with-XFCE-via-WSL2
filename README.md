@@ -146,10 +146,17 @@ MIT License (Feel free to reuse this setup)
 5. Access from browser
 6. `curl ifconfig.me` showing public IP
 
-You need password same as TigerVNC
+
+   ---
+
+## You need password same as TigerVNC
 ![Screenshot 2025-04-15 0124411](https://github.com/user-attachments/assets/30eca49f-f356-4e58-8dde-43f51c888498)
 
-##This would be your oparating system or your personal cloud or play ground whatever you call.......
+
+  ---
+  
+
+## This would be your oparating system or your personal cloud or play ground whatever you call.......
 
 
 ![Screenshot 2025-04-15 0152421](https://github.com/user-attachments/assets/712d01ad-c46b-4826-b2b1-e2afa5f5642c)
