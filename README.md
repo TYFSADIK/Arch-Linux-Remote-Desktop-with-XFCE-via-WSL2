@@ -137,7 +137,7 @@ MIT License (Feel free to reuse this setup)
 
 
 
-## 📸 Suggested Screenshots
+## 📸 Suggested 
 
 1. `vncserver :1` running
 2. XFCE desktop loaded
