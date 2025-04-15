@@ -94,16 +94,6 @@ ngrok http 6080
 ```
 You’ll get a public URL like `https://random-id.ngrok-free.app`.
 
----
-
-## 📸 Suggested Screenshots
-
-1. `vncserver :1` running
-2. XFCE desktop loaded
-3. noVNC dashboard or client open
-4. `ngrok` terminal with public URL
-5. Access from browser
-6. `curl ifconfig.me` showing public IP
 
 ---
 
@@ -147,6 +137,20 @@ MIT License (Feel free to reuse this setup)
 
 
 
+## 📸 Suggested Screenshots
+
+1. `vncserver :1` running
+2. XFCE desktop loaded
+3. noVNC dashboard or client open
+4. `ngrok` terminal with public URL
+5. Access from browser
+6. `curl ifconfig.me` showing public IP
+
+You need password same as TigerVNC
+![Screenshot 2025-04-15 0124411](https://github.com/user-attachments/assets/30eca49f-f356-4e58-8dde-43f51c888498)
+
+This would be your oparating system
 
 
+![Screenshot 2025-04-15 0152421](https://github.com/user-attachments/assets/712d01ad-c46b-4826-b2b1-e2afa5f5642c)
 
